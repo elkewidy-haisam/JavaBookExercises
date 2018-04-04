@@ -1,0 +1,11 @@
+
+k
+squid:S106"9Replace this use of System.out or System.err by a logger.(ψΓ8λό—¦,HsRMAJORZ
+CODE_SMELL
+lsquid:S1854":Remove this useless assignment to local variable "number".(ι·ν28λό—¦,HtRMAJORZ
+CODE_SMELL
+‰squid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(–ρ“ύÿÿÿÿHpRMINORZ
+CODE_SMELL
+p
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ή¦±Ήϊÿÿÿÿ8λό—¦,HrRMAJORZ
+CODE_SMELL

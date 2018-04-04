@@ -1,0 +1,16 @@
+
+Zsquid:S1905"&Remove this unnecessary cast to "int".(Þ¯Ôé8ÕŸÝˆ©,H±RMINORZ
+CODE_SMELL
+…squid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(˜à¨®H©RMINORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(¬‘Ôâøÿÿÿÿ8ÌßÝˆ©,H³RMAJORZ
+CODE_SMELL
+Zsquid:S1905"&Remove this unnecessary cast to "int".(âö×µ8ÕŸÝˆ©,H°RMINORZ
+CODE_SMELL
+Zsquid:S1905"&Remove this unnecessary cast to "int".(á¼ÎÔ8ÕŸÝˆ©,H²RMINORZ
+CODE_SMELL
+l
+squid:S106
+"9Replace this use of System.out or System.err by a logger.(âÙº¼8É‡Úˆ©,HªRMAJORZ
+CODE_SMELL

@@ -1,0 +1,26 @@
+
+…squid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(˜à¨®HœRMINORZ
+CODE_SMELL
+¢squid:S1192"fDefine a constant instead of duplicating this literal "The cities in alphabetical order are " 6 times.(ÄØº°üÿÿÿÿ8Ì´¤ˆ©,H RCRITICALZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(šïÖ½ÿÿÿÿÿ8Ì´¤ˆ©,H¡RMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÄØº°üÿÿÿÿ8Ì´¤ˆ©,H¢RMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(¥öö‡þÿÿÿÿ8Ì´¤ˆ©,H£RMAJORZ
+CODE_SMELL
+k
+squid:S106""9Replace this use of System.out or System.err by a logger.(‚Àãy8Ì´¤ˆ©,H¤RMAJORZ
+CODE_SMELL
+l
+squid:S106'"9Replace this use of System.out or System.err by a logger.(Î°Ôí8Ì´¤ˆ©,H¥RMAJORZ
+CODE_SMELL
+q
+squid:S106/"9Replace this use of System.out or System.err by a logger.(ÑÒ•íÿÿÿÿÿ8Ì´¤ˆ©,H¦RMAJORZ
+CODE_SMELL
+k
+squid:S1064"9Replace this use of System.out or System.err by a logger.(ñ™½8Ì´¤ˆ©,H§RMAJORZ
+CODE_SMELL

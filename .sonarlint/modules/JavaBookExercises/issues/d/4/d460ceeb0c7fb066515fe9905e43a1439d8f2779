@@ -1,0 +1,12 @@
+
+ƒsquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(Š½#H#RMINORZ
+CODE_SMELL
+ysquid:S2184"HCast one of the operands of this multiplication operation to a "double".(¬¤Ååûÿÿÿÿ8ûş”¦,H$RMINORZBUG
+ssquid:S2184"HCast one of the operands of this multiplication operation to a "double".(ï¶8ûş”¦,H%RMINORZBUG
+p
+squid:S106
+"9Replace this use of System.out or System.err by a logger.(µ‘Ôıÿÿÿÿ8ûş”¦,H&RMAJORZ
+CODE_SMELL
+k
+squid:S106"9Replace this use of System.out or System.err by a logger.(¨à³ø8ûş”¦,H'RMAJORZ
+CODE_SMELL

@@ -1,0 +1,14 @@
+
+Šsquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(–ñ“ıÿÿÿÿH©RMINORZ
+CODE_SMELL
+wsquid:S2184"ECast one of the operands of this subtraction operation to a "double".(ıºï±úÿÿÿÿ8ƒ€…¦,H«RMINORZBUG
+wsquid:S2184"ECast one of the operands of this subtraction operation to a "double".(ıºï±úÿÿÿÿ8ƒ€…¦,H¬RMINORZBUG
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(‡Õå˜8ƒ€…¦,H­RMAJORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(ƒœ™²8ƒ€…¦,H®RMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(úÍµ†øÿÿÿÿ8ƒ€…¦,H¯RMAJORZ
+CODE_SMELL
