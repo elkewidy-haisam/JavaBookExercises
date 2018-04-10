@@ -9,16 +9,4 @@ public class SevenPointThirtyFour {
 	}
 	
 	
-	public static sortString(String string) {
-		
-		for (int i = 0; i <= string.length(); i++) {
-			
-			
-			
-		}
-		
-		
-	}
-	
-	
 }
