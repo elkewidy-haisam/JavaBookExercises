@@ -14,64 +14,6 @@
     <splitter split-orientation="horizontal" split-proportion="0.4510932">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-          <file leaf-file-name="TestObjectOutputStream.java" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/BinaryIOListings/TestObjectOutputStream.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="375">
-                  <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
-                  <folding>
-                    <element signature="imports" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="TestObjectInputStream.java" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/BinaryIOListings/TestObjectInputStream.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="357">
-                  <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-                  <folding>
-                    <element signature="imports" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="TestObjectStreamForArray.java" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/BinaryIOListings/TestObjectStreamForArray.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="-399">
-                  <caret line="8" column="46" lean-forward="false" selection-start-line="8" selection-start-column="46" selection-end-line="8" selection-end-column="46" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="TestRandomAccessFile.java" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/BinaryIOListings/TestRandomAccessFile.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="789">
-                  <caret line="57" column="0" lean-forward="false" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
-                  <folding>
-                    <element signature="imports" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="SeventeenPointSeventeenBitOutputStream.java" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/src/ChapterSeventeen/SeventeenPointSeventeenBitOutputStream.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="180">
-                  <caret line="10" column="61" lean-forward="false" selection-start-line="10" selection-start-column="61" selection-end-line="10" selection-end-column="61" />
-                  <folding>
-                    <element signature="imports" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
           <file leaf-file-name="SeventeenPointEighteen.java" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/ChapterSeventeen/SeventeenPointEighteen.java">
               <provider selected="true" editor-type-id="text-editor">
@@ -82,41 +24,91 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="SevenPointNineteen.java" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/ChapterSeventeen/SevenPointNineteen.java">
+          <file leaf-file-name="ComputeFactorial.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/RecursionListings/ComputeFactorial.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="144">
-                  <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+                <state relative-caret-position="393">
+                  <caret line="23" column="44" lean-forward="false" selection-start-line="23" selection-start-column="44" selection-end-line="23" selection-end-column="44" />
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="TestDataStream.java" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/BinaryIOListings/TestDataStream.java">
+          <file leaf-file-name="ComputeFibonacci.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/RecursionListings/ComputeFibonacci.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="583">
-                  <caret line="45" column="5" lean-forward="true" selection-start-line="45" selection-start-column="5" selection-end-line="45" selection-end-column="5" />
+                <state relative-caret-position="522">
+                  <caret line="29" column="5" lean-forward="true" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="SevenPointTwenty.java" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/ChapterSeventeen/SevenPointTwenty.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="36">
-                  <caret line="2" column="29" lean-forward="false" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="SeventeenPointTwentyOne.java" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/ChapterSeventeen/SeventeenPointTwentyOne.java">
+          <file leaf-file-name="RecursivePalindromeUsingSubstring.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/RecursionListings/RecursivePalindromeUsingSubstring.java">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="90">
-                  <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+                  <caret line="5" column="60" lean-forward="true" selection-start-line="5" selection-start-column="60" selection-end-line="5" selection-end-column="60" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="RecursivePalindrome.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/RecursionListings/RecursivePalindrome.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="161">
+                  <caret line="18" column="49" lean-forward="false" selection-start-line="18" selection-start-column="49" selection-end-line="18" selection-end-column="49" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="RecursiveSelectionSort.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/RecursionListings/RecursiveSelectionSort.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="141">
+                  <caret line="30" column="35" lean-forward="false" selection-start-line="30" selection-start-column="35" selection-end-line="30" selection-end-column="35" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="RecrusiveBinarySearch.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/RecursionListings/RecrusiveBinarySearch.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="36">
+                  <caret line="2" column="34" lean-forward="false" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="34" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="DirectorySize.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/RecursionListings/DirectorySize.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="36">
+                  <caret line="2" column="26" lean-forward="false" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="TowerOfHanoi.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/RecursionListings/TowerOfHanoi.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="36">
+                  <caret line="2" column="25" lean-forward="false" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="SierpinskiTriangle.java" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/RecursionListings/SierpinskiTriangle.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="36">
+                  <caret line="2" column="31" lean-forward="false" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
                   <folding />
                 </state>
               </provider>
@@ -175,12 +167,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/ChapterNine/NinePointThirteenLocation.java" />
-        <option value="$PROJECT_DIR$/src/ChapterEleven/ElevenPointSixteen.java" />
-        <option value="$PROJECT_DIR$/src/ChapterEleven/ElevenPointSeventeen.java" />
-        <option value="$PROJECT_DIR$/src/ChapterEleven/ElevenPointEighteen.java" />
-        <option value="$PROJECT_DIR$/src/ChapterEleven/ElevenPointNineteen.java" />
-        <option value="$PROJECT_DIR$/src/FileClasses/TestFileClass.java" />
         <option value="$PROJECT_DIR$/src/FileClasses/WriteDataWithAutoClose.java" />
         <option value="$PROJECT_DIR$/src/FileClasses/ReadData.java" />
         <option value="$PROJECT_DIR$/src/FileClasses/WriteData.java" />
@@ -226,6 +212,12 @@
         <option value="$PROJECT_DIR$/src/ChapterSeventeen/SevenPointNineteen.java" />
         <option value="$PROJECT_DIR$/src/ChapterSeventeen/SeventeenPointSeventeen.java" />
         <option value="$PROJECT_DIR$/src/ChapterSeventeen/SeventeenPointSeventeenBitOutputStream.java" />
+        <option value="$PROJECT_DIR$/src/RecursionListings/ComputeFactorial.java" />
+        <option value="$PROJECT_DIR$/src/RecursionListings/ComputeFibonacci.java" />
+        <option value="$PROJECT_DIR$/src/RecursionListings/RecursivePalindromeUsingSubstring.java" />
+        <option value="$PROJECT_DIR$/src/RecursionListings/RecursivePalindrome.java" />
+        <option value="$PROJECT_DIR$/src/RecursionListings/RecursiveSelectionSort.java" />
+        <option value="$PROJECT_DIR$/src/RecursionListings/DirectorySize.java" />
       </list>
     </option>
   </component>
@@ -266,13 +258,7 @@
               <item name="JavaBookExercises" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaBookExercises" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="BinaryIOListings" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaBookExercises" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaBookExercises" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="ChapterSeventeen" type="462c0819:PsiDirectoryNode" />
+              <item name="RecursionListings" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -302,7 +288,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TestRandomAccessFile">
+  <component name="RunManager" selected="Application.RecursiveSelectionSort">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -310,14 +296,14 @@
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <module />
     </configuration>
-    <configuration name="Copy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="ComputeFactorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="BinaryIOListings.*" />
+          <option name="PATTERN" value="RecursionListings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="BinaryIOListings.Copy" />
+      <option name="MAIN_CLASS_NAME" value="RecursionListings.ComputeFactorial" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -329,14 +315,14 @@
       <module name="JavaBookExercises" />
       <envs />
     </configuration>
-    <configuration name="TestObjectInputStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="ComputeFibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="BinaryIOListings.*" />
+          <option name="PATTERN" value="RecursionListings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="BinaryIOListings.TestObjectInputStream" />
+      <option name="MAIN_CLASS_NAME" value="RecursionListings.ComputeFibonacci" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -348,14 +334,14 @@
       <module name="JavaBookExercises" />
       <envs />
     </configuration>
-    <configuration name="TestObjectOutputStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="RecursivePalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="BinaryIOListings.*" />
+          <option name="PATTERN" value="RecursionListings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="BinaryIOListings.TestObjectOutputStream" />
+      <option name="MAIN_CLASS_NAME" value="RecursionListings.RecursivePalindrome" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -367,14 +353,14 @@
       <module name="JavaBookExercises" />
       <envs />
     </configuration>
-    <configuration name="TestObjectStreamForArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="RecursivePalindromeUsingSubstring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="BinaryIOListings.*" />
+          <option name="PATTERN" value="RecursionListings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="BinaryIOListings.TestObjectStreamForArray" />
+      <option name="MAIN_CLASS_NAME" value="RecursionListings.RecursivePalindromeUsingSubstring" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -386,14 +372,14 @@
       <module name="JavaBookExercises" />
       <envs />
     </configuration>
-    <configuration name="TestRandomAccessFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="RecursiveSelectionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="BinaryIOListings.*" />
+          <option name="PATTERN" value="RecursionListings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="BinaryIOListings.TestRandomAccessFile" />
+      <option name="MAIN_CLASS_NAME" value="RecursionListings.RecursiveSelectionSort" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -480,19 +466,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.Copy" />
-      <item index="1" class="java.lang.String" itemvalue="Application.TestObjectOutputStream" />
-      <item index="2" class="java.lang.String" itemvalue="Application.TestObjectInputStream" />
-      <item index="3" class="java.lang.String" itemvalue="Application.TestObjectStreamForArray" />
-      <item index="4" class="java.lang.String" itemvalue="Application.TestRandomAccessFile" />
+      <item index="0" class="java.lang.String" itemvalue="Application.ComputeFactorial" />
+      <item index="1" class="java.lang.String" itemvalue="Application.ComputeFibonacci" />
+      <item index="2" class="java.lang.String" itemvalue="Application.RecursivePalindromeUsingSubstring" />
+      <item index="3" class="java.lang.String" itemvalue="Application.RecursivePalindrome" />
+      <item index="4" class="java.lang.String" itemvalue="Application.RecursiveSelectionSort" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.TestRandomAccessFile" />
-        <item index="1" class="java.lang.String" itemvalue="Application.TestObjectStreamForArray" />
-        <item index="2" class="java.lang.String" itemvalue="Application.TestObjectInputStream" />
-        <item index="3" class="java.lang.String" itemvalue="Application.TestObjectOutputStream" />
-        <item index="4" class="java.lang.String" itemvalue="Application.Copy" />
+        <item index="0" class="java.lang.String" itemvalue="Application.RecursiveSelectionSort" />
+        <item index="1" class="java.lang.String" itemvalue="Application.RecursivePalindrome" />
+        <item index="2" class="java.lang.String" itemvalue="Application.RecursivePalindromeUsingSubstring" />
+        <item index="3" class="java.lang.String" itemvalue="Application.ComputeFibonacci" />
+        <item index="4" class="java.lang.String" itemvalue="Application.ComputeFactorial" />
       </list>
     </recent_temporary>
   </component>
@@ -567,69 +553,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/ChapterEleven/ElevenPointSixteen.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="28" column="105" lean-forward="false" selection-start-line="28" selection-start-column="105" selection-end-line="28" selection-end-column="105" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ChapterEleven/ElevenPointSeventeen.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1782">
-          <caret line="100" column="1" lean-forward="false" selection-start-line="100" selection-start-column="1" selection-end-line="100" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ChapterEleven/ElevenPointEighteen.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ChapterEleven/ElevenPointNineteen.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="864">
-          <caret line="49" column="0" lean-forward="false" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/FileClasses/TestFileClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="34" lean-forward="false" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/FileClasses/WriteDataWithAutoClose.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="24" column="11" lean-forward="false" selection-start-line="24" selection-start-column="11" selection-end-line="24" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/FileClasses/WriteData.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="25" column="35" lean-forward="false" selection-start-line="25" selection-start-column="35" selection-end-line="25" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/FileClasses/ReplaceText.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="864">
-          <caret line="50" column="13" lean-forward="false" selection-start-line="50" selection-start-column="13" selection-end-line="50" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/FileClasses/ReadFileFromURL.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/FileClasses/ReadData.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="378">
@@ -897,7 +820,7 @@
         <state relative-caret-position="357">
           <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -907,7 +830,7 @@
         <state relative-caret-position="789">
           <caret line="57" column="0" lean-forward="false" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -962,6 +885,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/ChapterSeventeen/SeventeenPointSeventeenBitOutputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="61" lean-forward="false" selection-start-line="10" selection-start-column="61" selection-end-line="10" selection-end-column="61" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/ChapterSeventeen/SeventeenPointEighteen.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="36">
@@ -970,13 +903,75 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ChapterSeventeen/SeventeenPointSeventeenBitOutputStream.java">
+    <entry file="file://$PROJECT_DIR$/src/RecursionListings/ComputeFactorial.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" column="61" lean-forward="false" selection-start-line="10" selection-start-column="61" selection-end-line="10" selection-end-column="61" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="393">
+          <caret line="23" column="44" lean-forward="false" selection-start-line="23" selection-start-column="44" selection-end-line="23" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RecursionListings/ComputeFibonacci.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="29" column="5" lean-forward="true" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RecursionListings/RecursivePalindromeUsingSubstring.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="60" lean-forward="true" selection-start-line="5" selection-start-column="60" selection-end-line="5" selection-end-column="60" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RecursionListings/RecursivePalindrome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="18" column="49" lean-forward="false" selection-start-line="18" selection-start-column="49" selection-end-line="18" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RecursionListings/RecursiveSelectionSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="30" column="35" lean-forward="false" selection-start-line="30" selection-start-column="35" selection-end-line="30" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RecursionListings/RecrusiveBinarySearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="34" lean-forward="false" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RecursionListings/DirectorySize.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="26" lean-forward="false" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RecursionListings/TowerOfHanoi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="25" lean-forward="false" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RecursionListings/SierpinskiTriangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="31" lean-forward="false" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
+          <folding />
         </state>
       </provider>
     </entry>
